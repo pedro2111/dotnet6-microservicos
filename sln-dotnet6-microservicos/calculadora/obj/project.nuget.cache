@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "nE/eNQlCKPt21eJeKPQNmH3sTdtQTwcc3sHVOzy5XjhrfC3ZWQWBnA7kf8FdGEw6jAZoN8c3JD66rTBskbMBYw==",
+  "success": true,
+  "projectFilePath": "/Users/pedro/Desktop/projetos/dotnet/microservicos/code/dotnet6-microservicos/sln-dotnet6-microservicos/calculadora/ApiRestUdemy.csproj",
+  "expectedPackageFiles": [
+    "/Users/pedro/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.18/microsoft.aspnetcore.app.ref.6.0.18.nupkg.sha512",
+    "/Users/pedro/.nuget/packages/microsoft.netcore.app.host.osx-x64/6.0.18/microsoft.netcore.app.host.osx-x64.6.0.18.nupkg.sha512",
+    "/Users/pedro/.nuget/packages/microsoft.netcore.app.ref/6.0.18/microsoft.netcore.app.ref.6.0.18.nupkg.sha512"
+  ],
+  "logs": []
+}
